@@ -1,8 +1,9 @@
 ## Discover my work
 
-Check out my portfolio and read my article to know more about my projects and ideas!
+#### Check out my portfolio and read my article to know more about my projects and ideas!
 
 [![Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-Visit-blue?style=for-the-badge)](https://kmcarpio1.github.io/)
+&nbsp;&nbsp;&nbsp;&nbsp;  
 [![Article](https://img.shields.io/badge/📝%20My%20Article-Read-green?style=for-the-badge)](oups)
 <!--
 **kmcarpio1/kmcarpio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
