@@ -1,6 +1,6 @@
 ## Discover my work
 
-### Check out my portfolio and read my article (about AWS IAM) to know more about my projects and ideas!
+### Check out my [Portfolio](https://kmcarpio1.github.io/)  and read my [AWS Article](https://lien-de-ton-article.com) to know more about my projects and ideas!
 
 [![Portfolio](https://img.shields.io/badge/🌐%20My%20Portfolio-Visit-blue?style=for-the-badge)](https://kmcarpio1.github.io/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![AWS Article](https://img.shields.io/badge/📝%20AWS%20Article-Read-green?style=for-the-badge)](https://lien-de-ton-article.com)
